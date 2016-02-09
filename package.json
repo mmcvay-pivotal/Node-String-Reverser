@@ -1,0 +1,16 @@
+{
+  "name": "node-reverser",
+  "version": "1.0.0",
+  "description": "An example node REST server",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "PORT=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin McVay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.14.2",
+    "express": "4.13.3"
+  }
+}

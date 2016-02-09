@@ -1,0 +1,8 @@
+---
+applications:
+- name: node-reverser
+  command: node app.js  
+
+
+
+
